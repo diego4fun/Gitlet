@@ -1,0 +1,24 @@
+> init
+<<<
+> + f.txt
+> + g.txt
+> + h.txt
+> add f.txt
+<<<
+> add g.txt
+<<<
+> add h.txt
+<<<
+> commit "f.txt and g.txt and h.txt"
+<<<
+> branch new-branch
+<<<
+> rm h.txt
+<<<
+> commit "remove h.txt"
+<<<
+> checkout new-branch
+<<<
+> checkout master
+<<<
+> * h.txt
